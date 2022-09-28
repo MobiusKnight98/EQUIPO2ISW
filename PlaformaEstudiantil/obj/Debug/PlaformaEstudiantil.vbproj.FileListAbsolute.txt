@@ -33,3 +33,25 @@ E:\PlaformaEstudiantil\PlaformaEstudiantil\PlaformaEstudiantil\obj\Debug\Plaform
 E:\PlaformaEstudiantil\PlaformaEstudiantil\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.exe
 E:\PlaformaEstudiantil\PlaformaEstudiantil\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.xml
 E:\PlaformaEstudiantil\PlaformaEstudiantil\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.pdb
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.exe
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.xml
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.pdb
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\bin\Debug\PlaformaEstudiantil.exe.config
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\bin\Debug\PlaformaEstudiantil.exe
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\bin\Debug\PlaformaEstudiantil.pdb
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\bin\Debug\PlaformaEstudiantil.xml
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.vbproj.AssemblyReference.cache
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.admi_alumnos.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.admi_maestros.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.Login.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.login_estudiante.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.login_aspirantes.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.login_maestros.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.menu_admi.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.Resources.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.registro_aspirantes.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.registro_estudiantes.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.registro_maestros.resources
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.vbproj.GenerateResource.cache
+C:\Users\Guest Mode\source\repos\EQUIPO2ISW\PlaformaEstudiantil\obj\Debug\PlaformaEstudiantil.vbproj.CoreCompileInputs.cache
